@@ -100,5 +100,3 @@ Email Validation Regex
 - xss-clean
 - express-rate-limit
 
-
-# Jobs-API
